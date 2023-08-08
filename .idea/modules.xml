@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-00-Coupling/spring-00-Coupling.iml" filepath="$PROJECT_DIR$/spring-00-Coupling/spring-00-Coupling.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-01-Core-IoC-Bean-Annotation/spring-01-Core-IoC-Bean-Annotation.iml" filepath="$PROJECT_DIR$/spring-01-Core-IoC-Bean-Annotation/spring-01-Core-IoC-Bean-Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-02-Core-IoC-Stereotype-Annotation/spring-02-Core-IoC-Stereotype-Annotation.iml" filepath="$PROJECT_DIR$/spring-02-Core-IoC-Stereotype-Annotation/spring-02-Core-IoC-Stereotype-Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-03-Wiring/spring-03-Wiring.iml" filepath="$PROJECT_DIR$/spring-03-Wiring/spring-03-Wiring.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-v1.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-v1.iml" />
     </modules>
   </component>

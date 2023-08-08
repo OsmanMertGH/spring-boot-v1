@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-03-Wiring" />
+        <module name="spring-02-Core-IoC-Stereotype-Annotation" />
         <module name="spring-00-Coupling" />
         <module name="spring-01-Core-IoC-Bean-Annotation" />
       </profile>
@@ -13,6 +15,8 @@
     <bytecodeTargetLevel>
       <module name="spring-00-Coupling" target="11" />
       <module name="spring-01-Core-IoC-Bean-Annotation" target="11" />
+      <module name="spring-02-Core-IoC-Stereotype-Annotation" target="11" />
+      <module name="spring-03-Wiring" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
